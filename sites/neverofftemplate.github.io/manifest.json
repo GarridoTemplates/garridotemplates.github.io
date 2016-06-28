@@ -1,0 +1,15 @@
+{
+    "name": "Never Off Template HTML",
+    "short_name": "Never Off",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#00133d",
+    "icons": [
+        {
+            "src": "assets/icon_globe.png",
+            "type": "image/png",
+            "sizes": "20x20"
+        }
+    ]
+}
