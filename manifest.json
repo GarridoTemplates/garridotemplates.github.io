@@ -1,0 +1,29 @@
+{
+    "name": "Garrido's Template HTML",
+    "short_name": "Garrido's Templates",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#4caf50",
+    "icons": [{
+        "src": "assets/icons/i_48x48.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      }, {
+        "src": "assets/icons/i_72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      }, {
+        "src": "assets/icons/i_96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }, {
+        "src": "assets/icons/i_144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "assets/icons/i_192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }]
+}
